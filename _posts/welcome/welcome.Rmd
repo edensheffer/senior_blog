@@ -1,14 +1,14 @@
 ---
-title: "Welcome to My Blog"
+title: "Welcome to Eden"
 description: |
-  Welcome to our new blog, My Blog. We hope you enjoy 
+  Welcome to our new blog, Eden. We hope you enjoy 
   reading what we have to say!
 author:
-  - name: Eden Sheffer 
+  - name: Nora Jones 
     url: https://example.com/norajones
     affiliation: Spacely Sprockets
     affiliation_url: https://example.com/spacelysprokets
-date: 09-20-2021
+date: 12-13-2021
 output:
   distill::distill_article:
     self_contained: false
