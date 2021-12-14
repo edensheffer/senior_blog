@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Powersports Vehicles",
+    "description": "Welcome to our new blog, Eden. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Eden Sheffer",
+        "url": "https://powersportsvehicles.com/edensheffer"
+      }
+    ],
+    "date": "2021-12-13",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-12-13T13:31:09-07:00",
+    "input_file": {}
+  }
+]
