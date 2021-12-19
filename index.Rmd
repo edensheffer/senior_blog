@@ -1,7 +1,7 @@
 ---
 title: "Senior_Project"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Welcome to the website. This is my Senior Project!
 site: distill::distill_website
 ---
 
