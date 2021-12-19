@@ -11,10 +11,10 @@
     {
       "path": "index.html",
       "title": "Senior_Project",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "description": "Welcome to the website. This is my Senior Project!\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-12-18T22:50:49-07:00"
+      "last_modified": "2021-12-18T23:06:05-07:00"
     }
   ],
   "collections": ["posts/posts.json"]

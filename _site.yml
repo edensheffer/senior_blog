@@ -7,7 +7,7 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-      - text: "Post 1"
+    - text: "Post 1"
       href: post1.Rmd
     - text: "About"
       href: about.html
