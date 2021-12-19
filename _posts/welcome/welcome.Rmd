@@ -1,12 +1,11 @@
 ---
-title: "Welcome to My Blog"
+title: "Welcome to My Senior Project Blog"
 description: |
-  Welcome to our new blog, My Blog. We hope you enjoy 
-  reading what we have to say!
+  Welcome to My Senior Project Blog
 author:
-  - name: Eden Sheff 
+  - name: Eden Sheffer 
     url: https://example.com/norajones
-    affiliation: Spacely Sprockets
+    affiliation: BYU-Idaho
     affiliation_url: https://example.com/spacelysprokets
 date: 09-20-2021
 output:

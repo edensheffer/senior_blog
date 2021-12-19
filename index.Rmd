@@ -1,5 +1,5 @@
 ---
-title: "edensheffer-powersportvehicles"
+title: "Senior Project"
 description: |
   Welcome to the website. I hope you enjoy it!
 site: distill::distill_website
@@ -14,5 +14,11 @@ knitr::opts_chunk$set(echo = FALSE)
 # Learn more about publishing to GitHub Pages at:
 # https://rstudio.github.io/distill/publish_website.html#github-pages
 
+
 ```
+---
+title: "Powersport Vehicles"
+site: distill::distill_website
+listing: posts
+---
 
