@@ -11,10 +11,10 @@
     ],
     "date": "2021-12-06",
     "categories": [],
-    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web. Hello\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-12-15T21:54:15-07:00",
-    "input_file": {}
+    "last_modified": "2021-12-18T23:10:43-07:00",
+    "input_file": "post3.knit.md"
   },
   {
     "path": "posts/2021-12-15-post2/",
@@ -28,10 +28,10 @@
     ],
     "date": "2021-11-15",
     "categories": [],
-    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web. Hello\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-12-15T22:14:10-07:00",
-    "input_file": {}
+    "last_modified": "2021-12-18T23:10:36-07:00",
+    "input_file": "post2.knit.md"
   },
   {
     "path": "posts/2021-12-15-the-sharpe-ratio/",
@@ -45,10 +45,10 @@
     ],
     "date": "2021-10-04",
     "categories": [],
-    "contents": "\r\nPersonal Background\r\nI have completed MATH 425. I am undecided in what career field I am most interested in. Currently, I am searching for internships and hope for employment where I intern. I am most interested in business and consulting. I love helping people!\r\nProject Background\r\nI know a professor who is the CEO of Hero Hub. This company is growing quickly and is making deals with large businesses such as Polaris. They are looking to innovate and grow their business. A mass survey is being sent out and they are expecting thousands of responses. (This survey is expected to be completed in September. I am waiting to hear back from the professor.) The big question is what areas does Hero Hub need to focus on to continue their growth?\r\nDomain to Investigate\r\nI would be using Qualtrics information from Hero Hub. I could also do additional research on companies to compare their results with Hero Hub.\r\nProposed Deliverables\r\n• Find/predict trends • Clean up survey data (practice wrangling) • Find trends that could help in future decisions • Create insightful easy to read graphics\r\n\r\n\r\n\r\n",
+    "contents": "\r\nPersonal Background Hi\r\nI have completed MATH 425. I am undecided in what career field I am most interested in. Currently, I am searching for internships and hope for employment where I intern. I am most interested in business and consulting. I love helping people!\r\nProject Background\r\nI know a professor who is the CEO of Hero Hub. This company is growing quickly and is making deals with large businesses such as Polaris. They are looking to innovate and grow their business. A mass survey is being sent out and they are expecting thousands of responses. (This survey is expected to be completed in September. I am waiting to hear back from the professor.) The big question is what areas does Hero Hub need to focus on to continue their growth?\r\nDomain to Investigate\r\nI would be using Qualtrics information from Hero Hub. I could also do additional research on companies to compare their results with Hero Hub.\r\nProposed Deliverables\r\n• Find/predict trends • Clean up survey data (practice wrangling) • Find trends that could help in future decisions • Create insightful easy to read graphics\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-12-15T22:13:21-07:00",
-    "input_file": {}
+    "last_modified": "2021-12-18T23:10:24-07:00",
+    "input_file": "post1.knit.md"
   },
   {
     "path": "posts/welcome/",
