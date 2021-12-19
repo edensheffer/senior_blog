@@ -16,7 +16,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Personal Background Hello
+Personal Background Hi
 
 I have completed MATH 425. I am undecided in what career field I am most interested 
 in. Currently, I am searching for internships and hope for employment where I intern. I 
